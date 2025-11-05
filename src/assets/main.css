@@ -1,1 +1,8 @@
 @import 'tailwindcss';
+:root {
+  --font-jetbrains: 'JetBrains Mono', monospace;
+}
+
+@theme {
+  --font-jetbrains: var(--font-jetbrains);
+}
