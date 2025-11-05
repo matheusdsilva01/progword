@@ -8,4 +8,24 @@ export const langs = [
     "r",
     "go",
     "php",
+    "c#",
 ]
+
+export const properties = {
+    javascript: { mainColor: "yellow", createdAt: "1995", area: "Web Development" },
+    typescript: { mainColor: "blue", createdAt: "2012", area: "Web Development" },
+    python: { mainColor: "green", createdAt: "1991", area: "Data Science" },
+    java: { mainColor: "red", createdAt: "1995", area: "Web Development" },
+    cobol: { mainColor: "brown", createdAt: "1959", area: "Business" },
+    ruby: { mainColor: "pink", createdAt: "1995", area: "Web Development" },
+    r: { mainColor: "lightblue", createdAt: "1995", area: "Data Science" },
+    go: { mainColor: "lightgreen", createdAt: "2009", area: "Web Development" },
+    php: { mainColor: "purple", createdAt: "1995", area: "Web Development" },
+    'c#': { mainColor: "cyan", createdAt: "2000", area: "Web Development" },
+    'c++': { mainColor: "darkblue", createdAt: "1985", area: "Systems Programming" },
+    swift: { mainColor: "orange", createdAt: "2014", area: "Mobile Development" },
+    dart: { mainColor: "teal", createdAt: "2011", area: "Mobile Development" },
+    assembly: { mainColor: "grey", createdAt: "1949", area: "Systems Programming" },
+    elixir: { mainColor: "purple", createdAt: "2011", area: "Web Development" },
+    lua: { mainColor: "lightgrey", createdAt: "1993", area: "Game Development" },
+}
